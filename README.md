@@ -1,1 +1,2 @@
-# PythonPomodoro
+# python pomodoro uygulamasi
+Bu program, Pomodoro tekniğini kullanarak çalışma ve dinlenme sürelerini yönetmenizi sağlar. Kullanıcı, ders süresini, dinlenme süresini ve kaç kez tekrarlanacağını belirleyebilir. Ders ve dinlenme zamanları boyunca alarm müziği çalar; istenirse müzik kapatılabilir. Ayrıca, kullanıcı istediği alarm müziğini tam dosya yolu ile seçip kaydedebilir, böylece uygulama her açıldığında bu müzik otomatik çalar. Basit konsol tabanlı arayüzü ile zaman yönetimini kolaylaştırır ve verimli çalışma alışkanlığı kazandırır.
